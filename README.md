@@ -18,3 +18,10 @@ Some notes on how to wire the Arduino and the shift register.
 
   - 8 (SRCLR') to Vcc
   - 9 (G') to GND
+
+
+## Links
+
+### http://www.elcojacobs.com/shiftpwm-function-reference/
+
+Library for (ab)using shift registers to generate PWM
